@@ -1,0 +1,26 @@
+body {
+ text-align: center; 
+ background-color: silver;
+ font-family: 'Dosis', sans-serif;
+}
+p{
+border: 5px solid blue;
+font-family: 'Dosis', sans-serif;
+}
+.B{
+    display:none;
+    font-family: 'Dosis', sans-serif;
+}
+input{
+    width:200%;
+    display:none;
+    font-family: 'Dosis', sans-serif;
+}
+.D{
+    display:none;
+    font-family: 'Dosis', sans-serif;
+}
+.M {
+    width: 120px;
+    font-family: 'Dosis', sans-serif;
+}
